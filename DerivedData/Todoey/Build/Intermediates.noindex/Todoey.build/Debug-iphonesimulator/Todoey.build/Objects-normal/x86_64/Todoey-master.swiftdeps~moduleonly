@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "19e2ce5641e45ce7ef900ed154303aaf"
+build_time: [1536419429, 493019000]
+inputs:
+  "/Users/Josh/Documents/Development/iOS Development/Todoey/Todoey/ViewController.swift": [1536419426, 0]
+  "/Users/Josh/Documents/Development/iOS Development/Todoey/Todoey/AppDelegate.swift": [1536419426, 0]
