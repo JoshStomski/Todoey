@@ -1,6 +1,7 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
 options: "19e2ce5641e45ce7ef900ed154303aaf"
-build_time: [1536601663, 882198000]
+build_time: [1536612399, 762117000]
 inputs:
-  "/Users/Josh/Documents/Development/iOS Development/Todoey/Todoey/ToDoListViewController.swift": [1536601663, 0]
-  "/Users/Josh/Documents/Development/iOS Development/Todoey/Todoey/AppDelegate.swift": [1536601300, 0]
+  "/Users/Josh/Documents/Development/iOS Development/Todoey/Todoey/Controllers/ToDoListViewController.swift": [1536612399, 0]
+  "/Users/Josh/Documents/Development/iOS Development/Todoey/Todoey/Data Model/Item.swift": [1536611088, 0]
+  "/Users/Josh/Documents/Development/iOS Development/Todoey/Todoey/AppDelegate.swift": [1536609305, 0]
